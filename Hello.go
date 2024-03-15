@@ -1,3 +1,5 @@
+// Ver0
+
 package main
 
 import "fmt"
